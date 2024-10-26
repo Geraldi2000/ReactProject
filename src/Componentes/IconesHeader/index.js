@@ -13,9 +13,9 @@ return(
         <li className='icone'><img src={icone} width="50" height="50"></img></li>
 
       )) }
-
+  
      </ul>
-
+  
 
 )
 }

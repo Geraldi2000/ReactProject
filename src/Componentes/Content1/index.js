@@ -1,10 +1,11 @@
 import './style.css'
-import App from './Componentes/App'
+import App from '../../App'
 
 function Content1() {
     return(
-        <Texto />
+       <img src="https://imgs.casasbahia.com.br/55066981/1g.jpg" alt='Geladeira' className='Produto'></img>
     )
 }
 
-export default Content1
+
+export default Content1;

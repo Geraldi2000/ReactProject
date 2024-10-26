@@ -6,3 +6,7 @@
   .logo-img{
     margin-right: 10px;
   }
+  .logo img {
+    height: 150px;
+    width: auto !important;
+  }

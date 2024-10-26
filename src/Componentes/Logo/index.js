@@ -6,8 +6,7 @@ function Logo(){
 return (
 
     <div className="logo">
-    <img src={logo} width={250} alt='logo' className="logo-img"></img>
-    <p> MaxPix </p>
+    <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlvIaxV5Gv6ptpKi9lxXyN-iGdodOT2Q1WuQ&s' width={250} alt='logo' className="logo-img"></img>
      </div>
 )
 }

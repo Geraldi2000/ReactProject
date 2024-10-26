@@ -1,6 +1,6 @@
 import './estilo.css' 
 
-const TOpcao = ['Home', 'Filmes', 'Animes']
+const TOpcao = ['Home', 'Eletronicos', 'Cafeteira', 'Carro']
 
 function OpcoesHeader(){
        return(
